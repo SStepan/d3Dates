@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="80131dd1-79f9-446a-b771-94c4a7c38c74" name="Default Changelist" comment="">
+    <list default="true" id="80131dd1-79f9-446a-b771-94c4a7c38c74" name="Default Changelist" comment="changes">
+      <change afterPath="$PROJECT_DIR$/appACAS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/d3-time/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/d3-time/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/d3-time/dist/d3-time.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/d3-time/dist/d3-time.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/d3-time/dist/d3-time.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/d3-time/dist/d3-time.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/d3-time/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/d3-time/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/d3-time/src/day.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/d3-time/src/day.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +44,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\d3\demos\module-04\after\01-bar-chart\JS" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\d3\demos\module-04\after\01-bar-chart\data" />
       <recent name="F:\d3\demos\module-04\after\01-bar-chart" />
+      <recent name="F:\d3\demos\module-04\after\01-bar-chart\data" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,10 +68,57 @@
       <workItem from="1602660309921" duration="2140000" />
       <workItem from="1602746404837" duration="20155000" />
       <workItem from="1602828825348" duration="13126000" />
+      <workItem from="1603100495517" duration="12863000" />
+      <workItem from="1603179320841" duration="6283000" />
+      <workItem from="1603262945044" duration="14180000" />
+      <workItem from="1603435125393" duration="28409000" />
+      <workItem from="1603697323216" duration="20269000" />
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1603100779305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603100779305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603100823717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603100823717" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.js</url>
+          <line>288</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
